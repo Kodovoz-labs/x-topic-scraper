@@ -1,0 +1,6 @@
+venv/
+cookies.json
+scraped_tweets.json
+scraper.log
+__pycache__/
+.DS_Store
